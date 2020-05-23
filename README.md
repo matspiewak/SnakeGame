@@ -3,7 +3,7 @@ Android game with scoreboard
 
 ## Table of contents
 
-* [Techonogies](## Technologies)
+* [Techonogies](#Technologies)
 * Features
 * Setup
 * Code examples
