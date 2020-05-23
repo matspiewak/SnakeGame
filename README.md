@@ -1,2 +1,4 @@
 # SnakeGame
-Student Android Project 
+Android game with scoreboard
+
+##Table of contents
