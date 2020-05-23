@@ -4,10 +4,10 @@ Android game with scoreboard
 ## Table of contents
 
 * [Techonogies](#Technologies)
-* Features
-* Setup
-* Code examples
-* Screenshots
+* [Features](#Features)
+* [Setup](#Setup)
+* [Code examples](#Code-examples)
+* [Screenshots](#Screenshots)
 
 
 ## Technologies
