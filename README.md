@@ -35,6 +35,6 @@ To setup this project you need to download content of this repository and open i
 ## Code examples
 
 ## Screenshots
-<img src ="/Screenshots/MenuSignedOut.jpg" width="250px">![Sign In](/Screenshots/SignIn.jpg)
-![Snake Game](/Screenshots/Game.jpg)![New Game](/Screenshots/NewGameAlert.jpg)
-![Scoreboard](/Screenshots/Scoreboard.jpg)
+<img src ="/Screenshots/MenuSignedOut.jpg" width="250px"><img src ="/Screenshots/SignIn.jpg" width="250px">
+<img src ="/Screenshots/Game.jpg" width="250px"><img src ="/Screenshots/NewGameAlert.jpg" width="250px">
+<img src ="/Screenshots/Scoreboard.jpg" width="250px">
