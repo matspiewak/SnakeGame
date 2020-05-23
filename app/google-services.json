@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665905342843",
+    "firebase_url": "https://flagquiz-8c4ae.firebaseio.com",
+    "project_id": "flagquiz-8c4ae",
+    "storage_bucket": "flagquiz-8c4ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665905342843:android:5c0d3424d76aebf049f5de",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665905342843-ob5dvtg7nasviicq8qcbtuag3bh9vj4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "c08b2314261c43efdf012f9ea48dc67327feee75"
+          }
+        },
+        {
+          "client_id": "665905342843-duk3vfeq8v5gpiu6na4htfucvikdmfmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHPMKt1eM0Mzxk4J5etymp-42fNSILrQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665905342843-duk3vfeq8v5gpiu6na4htfucvikdmfmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
