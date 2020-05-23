@@ -35,3 +35,4 @@ To setup this project you need to download content of this repository and open i
 ## Code examples
 
 ## Screenshots
+![Main Menu](/Screenshots/MenuSignedOut.jpg)
